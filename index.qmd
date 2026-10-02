@@ -1,0 +1,40 @@
+---
+title: Early findings from a community science framework for assessing indoor ventilation with CO2 sensors
+authors:
+  - name: Sam Herniman
+    affiliation: Pandion Labs Cooperative
+    roles: writing
+    corresponding: true
+    email: ssssss@gmail.com
+    orcid: 0000-0001-7663-2897
+  - name: Aurel Wünsch
+    affiliation: indoorCO2map.com
+bibliography: references.bib
+abstract: |
+ test
+---
+
+## Introduction
+
+The majority of people around the world spend more than 90% of their lives in indoor spaces. However, estimates show that many indoor spaces are polluted with .....
+
+Measuring every possible pollutant in an indoor space can become prohibitively expensive as each individual pollutant must be measured with a separate sensor. A common approach to measuring the air quality of a given indoor space is to focus on one or a few measures which are correlated with other pollutants. The GOIAQS project suggests focusing on indoor carbon dioxide (CO2) levels and particulate matter at the 2.5 micron level (PM2.5). These two measures can be quantified with inexpensive sensors and serve as proxies for ventilation (from CO2) and xxxx (from PM2.5). Previous studies have illustrated that CO2 is highly corre
+
+While small scale studies have been carried out to assess the indoor CO2 levels within some limited environments, xxxxxxxxx, there have previously been no large scale projects to precisely and accurately measure CO2 levels over the many types of building types around the world. Previous studies of CO2 levels in indoor spaces have been limited to particular uses of buildings with the majority of studies focusing on private residences, schools, offices, and hospitals. Comparatively, there is a gap in studies focused on shops, restaurants, and small businesses where many people spend the majority of their time. Previous studies have used very small sample sizes, often including fewer than 20 locations. While small sample sizes with high temporal and resolution can be useful to paint a picture of how air quality changes throughout a day within the indoor environments we occupy, there is a need for global studies which focus on the diversity of indoor spaces that humans occupy. There have been several attempts at producing community science datasets in which volunteers from around the world, who own CO2 monitors, submit measurements through platforms for aggregating these measurements. The authors are aware of three such platforms, Raven App, CO2Trackers, and Airspot Health, however, like with any community science study, they can be prone to several possible downsides. These downsides include a lack of community recruitment, fraudulent submissions, noisy data,
+
+### Lack of community recruitment
+
+- Ease of use
+- Community understanding
+- Possible use
+
+### Fraudulent submissions
+
+### Noisy data
+
+- Miscalibrated sensors
+- Lack of training
+
+### Data availability and openness
+
+### Trust and open source
